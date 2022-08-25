@@ -2,7 +2,7 @@
 A simple program that converts numeric values to their
 corresponding roman numerals and vise versa
 
-Arthur @Julius alias CEO
+Arthur @Julius Markwei alias CEO
 '''
 
 class Convertor:
